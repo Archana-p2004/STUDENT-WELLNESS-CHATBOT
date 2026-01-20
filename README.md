@@ -1,4 +1,7 @@
 🌱 Student Wellness Companion
+
+
+
 An empathetic, AI-powered Streamlit application designed to support students' mental health and productivity. The app combines LLaMA 3-8B intelligence with mood tracking, journaling, and a reward system to help students navigate academic stress.
 ✨ Key Features
 🎭 Dynamic Mood Tracking: A sidebar emoji-based tracker that adapts the AI's personality and recommendations based on how the student feels.
@@ -7,6 +10,8 @@ An empathetic, AI-powered Streamlit application designed to support students' me
 🌟 Gamified Goals: A "Wellness Goals" progress bar that rewards students with stars for checking in and journaling.
 💡 Smart Resource Library: Context-aware recommendations that suggest specific videos (Grounding, Burnout, Focus) based on chat keywords.
 ✨ Daily Mantras: Automated, mood-specific "I am" affirmations generated via AI.
+
+
 🚀 Tech Stack
 Frontend: Streamlit
 AI Model: Meta-Llama-3-8B-Instruct (via Hugging Face Inference API)
